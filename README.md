@@ -92,5 +92,5 @@ Players can use lockpick items to attempt to unlock vehicles they don't have key
 - A compatible framework (QBCore, ESX, or QBOX)
 
 ## Credits
-- Created by Trae AI
+- Created by Simaatje69
 - Version 1.0.0

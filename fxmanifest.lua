@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Trae AI'
+author 'Simaatje69'
 description 'Vernieuwd Voertuigsleutels Systeem - Compatibel met QBCore, ESX, en QBOX'
 version '1.0.0'
 
